@@ -1,7 +1,9 @@
 serverless-webrtc
 =================
 
-This is a tech demo of using WebRTC without a signaling server -- the 
+forked from 	https://github.com/cjb/serverless-webrtc
+
+This is a tech demo of using WebRTC without a signaling server -- the
 WebRTC offer/answer exchange is performed manually by the users, for example
 via IM.  This means that the app can run out of `file:///` directly, without
 involving a web server.  You can send text messages and files between peers.
